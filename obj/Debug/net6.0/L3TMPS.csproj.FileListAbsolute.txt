@@ -1,0 +1,15 @@
+C:\Users\Alexandru\source\repos\L3TMPS\bin\Debug\net6.0\L3TMPS.exe
+C:\Users\Alexandru\source\repos\L3TMPS\bin\Debug\net6.0\L3TMPS.deps.json
+C:\Users\Alexandru\source\repos\L3TMPS\bin\Debug\net6.0\L3TMPS.runtimeconfig.json
+C:\Users\Alexandru\source\repos\L3TMPS\bin\Debug\net6.0\L3TMPS.dll
+C:\Users\Alexandru\source\repos\L3TMPS\bin\Debug\net6.0\L3TMPS.pdb
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\L3TMPS.csproj.AssemblyReference.cache
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\L3TMPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\L3TMPS.AssemblyInfoInputs.cache
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\L3TMPS.AssemblyInfo.cs
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\L3TMPS.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\L3TMPS.dll
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\refint\L3TMPS.dll
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\L3TMPS.pdb
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\L3TMPS.genruntimeconfig.cache
+C:\Users\Alexandru\source\repos\L3TMPS\obj\Debug\net6.0\ref\L3TMPS.dll
